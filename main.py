@@ -59,4 +59,3 @@ while True:
         
 
 window.close()
-# print('Samir')
